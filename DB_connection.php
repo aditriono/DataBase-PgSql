@@ -29,12 +29,4 @@ $query = pg_query($dbcon,$sql);
 				}
 	}
 
-
-
-//if( $query ) {    
- //       header('Location: pendaftaran.php?status=sukses');
-  //  } else {     
-   //     header('Location: pendaftaran.php?status=gagal');
-   // }
-
 ?>
